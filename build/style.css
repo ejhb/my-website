@@ -26,6 +26,12 @@ Version: 1.0
 /*--------------------*/
 /* BASIC TYPOGRAPHY */
 /*--------------------*/
+body {
+    background: #dedede;
+}
+.page-wrap {
+    min-height: 100vh;
+}
 
 body,
 html {
@@ -49,6 +55,11 @@ ul li {
 	list-style: disc;
 	font-size: 17px;
 	line-height: 1.59;
+}
+
+strong{
+    text-decoration: none;
+    font-weight: 100;
 }
 
 a { 
@@ -1386,4 +1397,3 @@ button:focus {
 	
 	
 }
-

@@ -1,0 +1,3 @@
+Sitemap: https://www.harris-joshua.com/sitemap.xml
+User-agent: *
+Allow: /
